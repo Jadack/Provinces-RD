@@ -1,0 +1,814 @@
+[
+  {
+    "code": "AZ",
+    "description": "Azua",
+    "municipalities": [
+      {
+        "code": "AZ.AC",
+        "description": "Azua"
+      },
+      {
+        "code": "AZ.ES",
+        "description": "Estebanía"
+      },
+      {
+        "code": "AZ.GU",
+        "description": "Guayabal"
+      },
+      {
+        "code": "AZ.LC",
+        "description": "Las Charcas"
+      },
+      {
+        "code": "AZ.YV",
+        "description": "Las Yayas de Viajama"
+      },
+      {
+        "code": "AZ.PL",
+        "description": "Padre las Casas"
+      },
+      {
+        "code": "AZ.PR",
+        "description": "Peralta"
+      },
+      {
+        "code": "AZ.PV",
+        "description": "Pueblo Viejo"
+      },
+      {
+        "code": "AZ.SY",
+        "description": "Sabana Yegua"
+      },
+      {
+        "code": "AZ.VT",
+        "description": "Tábara Arriba"
+      }
+    ]
+  },
+  {
+    "code": "BR",
+    "description": "Baoruco",
+    "municipalities": [
+      {
+        "code": "BR.GA",
+        "description": "Galván"
+      },
+      {
+        "code": "BR.LR",
+        "description": "Los Ríos"
+      },
+      {
+        "code": "BR.NE",
+        "description": "Neiba"
+      },
+      {
+        "code": "BR.TM",
+        "description": "Tamayo"
+      },
+      {
+        "code": "BR.VJ",
+        "description": "Villa Jaragua"
+      }
+    ]
+  },
+  {
+    "code": "BH",
+    "description": "Barahona",
+    "municipalities": [
+      {
+        "code": "BH.SC",
+        "description": "Barahona"
+      },
+      {
+        "code": "BH.CA",
+        "description": "Cabral"
+      },
+      {
+        "code": "BH.EP",
+        "description": "El Peñón"
+      },
+      {
+        "code": "BH.EN",
+        "description": "Enriquillo"
+      },
+      {
+        "code": "BH.FU",
+        "description": "Fundación"
+      },
+      {
+        "code": "BH.JQ",
+        "description": "Jaquimeyes"
+      },
+      {
+        "code": "BH.LC",
+        "description": "La Ciénaga"
+      },
+      {
+        "code": "BH.LS",
+        "description": "Las Salinas"
+      },
+      {
+        "code": "BH.PA",
+        "description": "Paraíso"
+      },
+      {
+        "code": "BH.PO",
+        "description": "Polo"
+      },
+      {
+        "code": "BH.VN",
+        "description": "Vicente Noble"
+      }
+    ]
+  },
+  {
+    "code": "DA",
+    "description": "Dajabón",
+    "municipalities": [
+      {
+        "code": "DA.DA",
+        "description": "Dajabón"
+      },
+      {
+        "code": "DA.EP",
+        "description": "El Pino"
+      },
+      {
+        "code": "DA.LC",
+        "description": "Loma de Cabrera"
+      },
+      {
+        "code": "DA.PA",
+        "description": "Partido"
+      },
+      {
+        "code": "DA.RE",
+        "description": "Restauración"
+      }
+    ]
+  },
+  {
+    "code": "NC",
+    "description": "Distrito Nacional",
+    "municipalities": [
+      {
+        "code": "NC.DN",
+        "description": "Santo Domingo de Guzmán"
+      }
+    ]
+  },
+  {
+    "code": "DU",
+    "description": "Duarte",
+    "municipalities": [
+      {
+        "code": "DU.AR",
+        "description": "Arenoso"
+      },
+      {
+        "code": "DU.CA",
+        "description": "Castillo"
+      },
+      {
+        "code": "DU.HO",
+        "description": "Eugenio María de Hostos"
+      },
+      {
+        "code": "DU.LG",
+        "description": "Las Guáranas"
+      },
+      {
+        "code": "DU.PI",
+        "description": "Pimentel"
+      },
+      {
+        "code": "DU.SF",
+        "description": "San Francisco de Macorís"
+      },
+      {
+        "code": "DU.VR",
+        "description": "Villa Riva"
+      }
+    ]
+  },
+  {
+    "code": "EP",
+    "description": "Elías Piña",
+    "municipalities": [
+      {
+        "code": "EP.BA",
+        "description": "Bánica"
+      },
+      {
+        "code": "EP.CO",
+        "description": "Comendador"
+      },
+      {
+        "code": "EP.EL",
+        "description": "El Llano"
+      },
+      {
+        "code": "EP.HV",
+        "description": "Hondo Valle"
+      },
+      {
+        "code": "EP.JS",
+        "description": "Juan Santiago"
+      },
+      {
+        "code": "EP.PS",
+        "description": "Pedro Santana"
+      }
+    ]
+  },
+  {
+    "code": "SE",
+    "description": "El Seibo",
+    "municipalities": [
+      {
+        "code": "SE.SC",
+        "description": "El Seibo"
+      },
+      {
+        "code": "SE.MI",
+        "description": "Miches"
+      }
+    ]
+  },
+  {
+    "code": "ES",
+    "description": "Espaillat",
+    "municipalities": [
+      {
+        "code": "ES.CG",
+        "description": "Cayetano Germosén"
+      },
+      {
+        "code": "ES.GH",
+        "description": "Gaspar Hernández"
+      },
+      {
+        "code": "ES.JN",
+        "description": "Jamao al Norte"
+      },
+      {
+        "code": "ES.MC",
+        "description": "Moca"
+      }
+    ]
+  },
+  {
+    "code": "HM",
+    "description": "Hato Mayor",
+    "municipalities": [
+      {
+        "code": "HM.EV",
+        "description": "El Valle"
+      },
+      {
+        "code": "HM.HM",
+        "description": "Hato Mayor"
+      },
+      {
+        "code": "HM.SM",
+        "description": "Sabana de la Mar"
+      }
+    ]
+  },
+  {
+    "code": "SC",
+    "description": "Hermanas Mirabal",
+    "municipalities": [
+      {
+        "code": "SC.SA",
+        "description": "Salcedo"
+      },
+      {
+        "code": "SC.TE",
+        "description": "Tenares"
+      },
+      {
+        "code": "SC.VT",
+        "description": "Villa Tapia"
+      }
+    ]
+  },
+  {
+    "code": "IN",
+    "description": "Independencia",
+    "municipalities": [
+      {
+        "code": "IN.CR",
+        "description": "Cristóbal"
+      },
+      {
+        "code": "IN.DU",
+        "description": "Duvergé"
+      },
+      {
+        "code": "IN.JI",
+        "description": "Jimaní"
+      },
+      {
+        "code": "IN.LD",
+        "description": "La Descubierta"
+      },
+      {
+        "code": "IN.ME",
+        "description": "Mella"
+      },
+      {
+        "code": "IN.PR",
+        "description": "Postrer Río"
+      }
+    ]
+  },
+  {
+    "code": "AL",
+    "description": "La Altagracia",
+    "municipalities": [
+      {
+        "code": "AL.HI",
+        "description": "Higüey"
+      },
+      {
+        "code": "AL.SR",
+        "description": "San Rafael del Yuma"
+      }
+    ]
+  },
+  {
+    "code": "RO",
+    "description": "La Romana",
+    "municipalities": [
+      {
+        "code": "RO.GU",
+        "description": "Guaymate"
+      },
+      {
+        "code": "RO.LR",
+        "description": "La Romana"
+      },
+      {
+        "code": "RO.VH",
+        "description": "Villa Hermosa"
+      }
+    ]
+  },
+  {
+    "code": "VE",
+    "description": "La Vega",
+    "municipalities": [
+      {
+        "code": "VE.CO",
+        "description": "Constanza"
+      },
+      {
+        "code": "VE.JB",
+        "description": "Jarabacoa"
+      },
+      {
+        "code": "VE.JA",
+        "description": "Jima Abajo"
+      },
+      {
+        "code": "VE.CV",
+        "description": "La Vega"
+      }
+    ]
+  },
+  {
+    "code": "MT",
+    "description": "María Trinidad Sánchez",
+    "municipalities": [
+      {
+        "code": "MT.CA",
+        "description": "Cabrera"
+      },
+      {
+        "code": "MT.EF",
+        "description": "El Factor"
+      },
+      {
+        "code": "MT.NA",
+        "description": "Nagua"
+      },
+      {
+        "code": "MT.RS",
+        "description": "Río San Juan"
+      }
+    ]
+  },
+  {
+    "code": "MN",
+    "description": "Monseñor Nouel",
+    "municipalities": [
+      {
+        "code": "MN.BO",
+        "description": "Bonao"
+      },
+      {
+        "code": "MN.MA",
+        "description": "Maimón"
+      },
+      {
+        "code": "MN.PB",
+        "description": "Piedra Blanca"
+      }
+    ]
+  },
+  {
+    "code": "MC",
+    "description": "Monte Cristi",
+    "municipalities": [
+      {
+        "code": "MC.CA",
+        "description": "Castañuelas"
+      },
+      {
+        "code": "MC.GU",
+        "description": "Guayubín"
+      },
+      {
+        "code": "MC.LM",
+        "description": "Las Matas de Santa Cruz"
+      },
+      {
+        "code": "MC.SF",
+        "description": "Monte Cristi"
+      },
+      {
+        "code": "MC.PS",
+        "description": "Pepillo Salcedo"
+      },
+      {
+        "code": "MC.VV",
+        "description": "Villa Vásquez"
+      }
+    ]
+  },
+  {
+    "code": "MP",
+    "description": "Monte Plata",
+    "municipalities": [
+      {
+        "code": "MP.BA",
+        "description": "Bayaguana"
+      },
+      {
+        "code": "MP.MT",
+        "description": "Monte Plata"
+      },
+      {
+        "code": "MP.ES",
+        "description": "Peralvillo"
+      },
+      {
+        "code": "MP.SG",
+        "description": "Sabana Grande de Boyá"
+      },
+      {
+        "code": "MP.YA",
+        "description": "Yamasá"
+      }
+    ]
+  },
+  {
+    "code": "PN",
+    "description": "Pedernales",
+    "municipalities": [
+      {
+        "code": "PN.OV",
+        "description": "Oviedo"
+      },
+      {
+        "code": "PN.PE",
+        "description": "Pedernales"
+      }
+    ]
+  },
+  {
+    "code": "PV",
+    "description": "Peravia",
+    "municipalities": [
+      {
+        "code": "PV.BN",
+        "description": "Baní"
+      },
+      {
+        "code": "PV.NI",
+        "description": "Nizao"
+      }
+    ]
+  },
+  {
+    "code": "PP",
+    "description": "Puerto Plata",
+    "municipalities": [
+      {
+        "code": "PP.AL",
+        "description": "Altamira"
+      },
+      {
+        "code": "PP.GU",
+        "description": "Guananico"
+      },
+      {
+        "code": "PP.IM",
+        "description": "Imbert"
+      },
+      {
+        "code": "PP.LH",
+        "description": "Los Hidalgos"
+      },
+      {
+        "code": "PP.LU",
+        "description": "Luperón"
+      },
+      {
+        "code": "PP.SF",
+        "description": "Puerto Plata"
+      },
+      {
+        "code": "PP.SO",
+        "description": "Sosúa"
+      },
+      {
+        "code": "PP.LI",
+        "description": "Villa Isabela"
+      },
+      {
+        "code": "PP.VM",
+        "description": "Villa Montellano"
+      }
+    ]
+  },
+  {
+    "code": "SM",
+    "description": "Samaná",
+    "municipalities": [
+      {
+        "code": "SM.LT",
+        "description": "Las Terrenas"
+      },
+      {
+        "code": "SM.SB",
+        "description": "Samaná"
+      },
+      {
+        "code": "SM.SA",
+        "description": "Sánchez"
+      }
+    ]
+  },
+  {
+    "code": "SZ",
+    "description": "Sánchez Ramírez",
+    "municipalities": [
+      {
+        "code": "SZ.CV",
+        "description": "Cevicos"
+      },
+      {
+        "code": "SZ.CO",
+        "description": "Cotuí"
+      },
+      {
+        "code": "SZ.FA",
+        "description": "Fantino"
+      },
+      {
+        "code": "SZ.LM",
+        "description": "La Mata"
+      }
+    ]
+  },
+  {
+    "code": "CR",
+    "description": "San Cristóbal",
+    "municipalities": [
+      {
+        "code": "CR.BH",
+        "description": "Bajos de Haina"
+      },
+      {
+        "code": "CR.CG",
+        "description": "Cambita Garabitos"
+      },
+      {
+        "code": "CR.LC",
+        "description": "Los Cacaos"
+      },
+      {
+        "code": "CR.SP",
+        "description": "Sabana Grande de Palenque"
+      },
+      {
+        "code": "CR.SC",
+        "description": "San Cristóbal"
+      },
+      {
+        "code": "CR.NI",
+        "description": "San Gregorio de Nigua"
+      },
+      {
+        "code": "CR.VA",
+        "description": "Villa Altagracia"
+      },
+      {
+        "code": "CR.SG",
+        "description": "Yaguate"
+      }
+    ]
+  },
+  {
+    "code": "JO",
+    "description": "San José de Ocoa",
+    "municipalities": [
+      {
+        "code": "JO.RA",
+        "description": "Rancho Arriba"
+      },
+      {
+        "code": "JO.SL",
+        "description": "Sabana Larga"
+      },
+      {
+        "code": "JO.SJ",
+        "description": "San José de Ocoa"
+      }
+    ]
+  },
+  {
+    "code": "JU",
+    "description": "San Juan",
+    "municipalities": [
+      {
+        "code": "JU.BO",
+        "description": "Bohechío"
+      },
+      {
+        "code": "JU.EC",
+        "description": "El Cercado"
+      },
+      {
+        "code": "JU.JH",
+        "description": "Juan de Herrera"
+      },
+      {
+        "code": "JU.LM",
+        "description": "Las Matas de Farfán"
+      },
+      {
+        "code": "JU.SJ",
+        "description": "San Juan"
+      },
+      {
+        "code": "JU.VA",
+        "description": "Vallejuelo"
+      }
+    ]
+  },
+  {
+    "code": "PM",
+    "description": "San Pedro de Macorís",
+    "municipalities": [
+      {
+        "code": "PM.CO",
+        "description": "Consuelo"
+      },
+      {
+        "code": "PM.GY",
+        "description": "Guayacanes"
+      },
+      {
+        "code": "PM.LL",
+        "description": "Los Llanos"
+      },
+      {
+        "code": "PM.QQ",
+        "description": "Quisqueya"
+      },
+      {
+        "code": "PM.RS",
+        "description": "Ramón Santana"
+      },
+      {
+        "code": "PM.SP",
+        "description": "San Pedro de Macorís"
+      }
+    ]
+  },
+  {
+    "code": "ST",
+    "description": "Santiago",
+    "municipalities": [
+      {
+        "code": "ST.VB",
+        "description": "Bisonó"
+      },
+      {
+        "code": "ST.JA",
+        "description": "Jánico"
+      },
+      {
+        "code": "ST.LM",
+        "description": "Licey al Medio"
+      },
+      {
+        "code": "ST.PU",
+        "description": "Puñal"
+      },
+      {
+        "code": "ST.SI",
+        "description": "Sabana Iglesia"
+      },
+      {
+        "code": "ST.SJ",
+        "description": "San José de las Matas"
+      },
+      {
+        "code": "ST.SG",
+        "description": "Santiago"
+      },
+      {
+        "code": "ST.TA",
+        "description": "Tamboril"
+      },
+      {
+        "code": "ST.VG",
+        "description": "Villa González"
+      }
+    ]
+  },
+  {
+    "code": "SR",
+    "description": "Santiago Rodríguez",
+    "municipalities": [
+      {
+        "code": "SR.MO",
+        "description": "Monción"
+      },
+      {
+        "code": "SR.SI",
+        "description": "San Ignacio de Sabaneta"
+      },
+      {
+        "code": "SR.LA",
+        "description": "Villa los Almácigos"
+      }
+    ]
+  },
+  {
+    "code": "SD",
+    "description": "Santo Domingo",
+    "municipalities": [
+      {
+        "code": "SD.BC",
+        "description": "Boca Chica"
+      },
+      {
+        "code": "SD.LA",
+        "description": "Los Alcarrizos"
+      },
+      {
+        "code": "SD.PB",
+        "description": "Pedro Brand"
+      },
+      {
+        "code": "SD.GU",
+        "description": "San Antonio de Guerra"
+      },
+      {
+        "code": "SD.ES",
+        "description": "Santo Domingo Este"
+      },
+      {
+        "code": "SD.DN",
+        "description": "Santo Domingo Norte"
+      },
+      {
+        "code": "SD.OE",
+        "description": "Santo Domingo Oeste"
+      }
+    ]
+  },
+  {
+    "code": "VA",
+    "description": "Valverde",
+    "municipalities": [
+      {
+        "code": "VA.ES",
+        "description": "Esperanza"
+      },
+      {
+        "code": "VA.LS",
+        "description": "Laguna Salada"
+      },
+      {
+        "code": "VA.MA",
+        "description": "Mao"
+      }
+    ]
+  }
+]

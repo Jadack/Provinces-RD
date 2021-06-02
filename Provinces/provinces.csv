@@ -1,0 +1,156 @@
+﻿Province Code,Province Description,Municipalities Code,Municipalities Description
+AZ,Azua,AZ.AC,Azua
+AZ,Azua,AZ.ES,Estebanía
+AZ,Azua,AZ.GU,Guayabal
+AZ,Azua,AZ.LC,Las Charcas
+AZ,Azua,AZ.YV,Las Yayas de Viajama
+AZ,Azua,AZ.PL,Padre las Casas
+AZ,Azua,AZ.PR,Peralta
+AZ,Azua,AZ.PV,Pueblo Viejo
+AZ,Azua,AZ.SY,Sabana Yegua
+AZ,Azua,AZ.VT,Tábara Arriba
+BR,Baoruco,BR.GA,Galván
+BR,Baoruco,BR.LR,Los Ríos
+BR,Baoruco,BR.NE,Neiba
+BR,Baoruco,BR.TM,Tamayo
+BR,Baoruco,BR.VJ,Villa Jaragua
+BH,Barahona,BH.SC,Barahona
+BH,Barahona,BH.CA,Cabral
+BH,Barahona,BH.EP,El Peñón
+BH,Barahona,BH.EN,Enriquillo
+BH,Barahona,BH.FU,Fundación
+BH,Barahona,BH.JQ,Jaquimeyes
+BH,Barahona,BH.LC,La Ciénaga
+BH,Barahona,BH.LS,Las Salinas
+BH,Barahona,BH.PA,Paraíso
+BH,Barahona,BH.PO,Polo
+BH,Barahona,BH.VN,Vicente Noble
+DA,Dajabón,DA.DA,Dajabón
+DA,Dajabón,DA.EP,El Pino
+DA,Dajabón,DA.LC,Loma de Cabrera
+DA,Dajabón,DA.PA,Partido
+DA,Dajabón,DA.RE,Restauración
+NC,Distrito Nacional,NC.DN,Santo Domingo de Guzmán
+DU,Duarte,DU.AR,Arenoso
+DU,Duarte,DU.CA,Castillo
+DU,Duarte,DU.HO,Eugenio María de Hostos
+DU,Duarte,DU.LG,Las Guáranas
+DU,Duarte,DU.PI,Pimentel
+DU,Duarte,DU.SF,San Francisco de Macorís
+DU,Duarte,DU.VR,Villa Riva
+EP,Elías Piña,EP.BA,Bánica
+EP,Elías Piña,EP.CO,Comendador
+EP,Elías Piña,EP.EL,El Llano
+EP,Elías Piña,EP.HV,Hondo Valle
+EP,Elías Piña,EP.JS,Juan Santiago
+EP,Elías Piña,EP.PS,Pedro Santana
+SE,El Seibo,SE.SC,El Seibo
+SE,El Seibo,SE.MI,Miches
+ES,Espaillat,ES.CG,Cayetano Germosén
+ES,Espaillat,ES.GH,Gaspar Hernández
+ES,Espaillat,ES.JN,Jamao al Norte
+ES,Espaillat,ES.MC,Moca
+HM,Hato Mayor,HM.EV,El Valle
+HM,Hato Mayor,HM.HM,Hato Mayor
+HM,Hato Mayor,HM.SM,Sabana de la Mar
+SC,Hermanas Mirabal,SC.SA,Salcedo
+SC,Hermanas Mirabal,SC.TE,Tenares
+SC,Hermanas Mirabal,SC.VT,Villa Tapia
+IN,Independencia,IN.CR,Cristóbal
+IN,Independencia,IN.DU,Duvergé
+IN,Independencia,IN.JI,Jimaní
+IN,Independencia,IN.LD,La Descubierta
+IN,Independencia,IN.ME,Mella
+IN,Independencia,IN.PR,Postrer Río
+AL,La Altagracia,AL.HI,Higüey
+AL,La Altagracia,AL.SR,San Rafael del Yuma
+RO,La Romana,RO.GU,Guaymate
+RO,La Romana,RO.LR,La Romana
+RO,La Romana,RO.VH,Villa Hermosa
+VE,La Vega,VE.CO,Constanza
+VE,La Vega,VE.JB,Jarabacoa
+VE,La Vega,VE.JA,Jima Abajo
+VE,La Vega,VE.CV,La Vega
+MT,María Trinidad Sánchez,MT.CA,Cabrera
+MT,María Trinidad Sánchez,MT.EF,El Factor
+MT,María Trinidad Sánchez,MT.NA,Nagua
+MT,María Trinidad Sánchez,MT.RS,Río San Juan
+MN,Monseñor Nouel,MN.BO,Bonao
+MN,Monseñor Nouel,MN.MA,Maimón
+MN,Monseñor Nouel,MN.PB,Piedra Blanca
+MC,Monte Cristi,MC.CA,Castañuelas
+MC,Monte Cristi,MC.GU,Guayubín
+MC,Monte Cristi,MC.LM,Las Matas de Santa Cruz
+MC,Monte Cristi,MC.SF,Monte Cristi
+MC,Monte Cristi,MC.PS,Pepillo Salcedo
+MC,Monte Cristi,MC.VV,Villa Vásquez
+MP,Monte Plata,MP.BA,Bayaguana
+MP,Monte Plata,MP.MT,Monte Plata
+MP,Monte Plata,MP.ES,Peralvillo
+MP,Monte Plata,MP.SG,Sabana Grande de Boyá
+MP,Monte Plata,MP.YA,Yamasá
+PN,Pedernales,PN.OV,Oviedo
+PN,Pedernales,PN.PE,Pedernales
+PV,Peravia,PV.BN,Baní
+PV,Peravia,PV.NI,Nizao
+PP,Puerto Plata,PP.AL,Altamira
+PP,Puerto Plata,PP.GU,Guananico
+PP,Puerto Plata,PP.IM,Imbert
+PP,Puerto Plata,PP.LH,Los Hidalgos
+PP,Puerto Plata,PP.LU,Luperón
+PP,Puerto Plata,PP.SF,Puerto Plata
+PP,Puerto Plata,PP.SO,Sosúa
+PP,Puerto Plata,PP.LI,Villa Isabela
+PP,Puerto Plata,PP.VM,Villa Montellano
+SM,Samaná,SM.LT,Las Terrenas
+SM,Samaná,SM.SB,Samaná
+SM,Samaná,SM.SA,Sánchez
+SZ,Sánchez Ramírez,SZ.CV,Cevicos
+SZ,Sánchez Ramírez,SZ.CO,Cotuí
+SZ,Sánchez Ramírez,SZ.FA,Fantino
+SZ,Sánchez Ramírez,SZ.LM,La Mata
+CR,San Cristóbal,CR.BH,Bajos de Haina
+CR,San Cristóbal,CR.CG,Cambita Garabitos
+CR,San Cristóbal,CR.LC,Los Cacaos
+CR,San Cristóbal,CR.SP,Sabana Grande de Palenque
+CR,San Cristóbal,CR.SC,San Cristóbal
+CR,San Cristóbal,CR.NI,San Gregorio de Nigua
+CR,San Cristóbal,CR.VA,Villa Altagracia
+CR,San Cristóbal,CR.SG,Yaguate
+JO,San José de Ocoa,JO.RA,Rancho Arriba
+JO,San José de Ocoa,JO.SL,Sabana Larga
+JO,San José de Ocoa,JO.SJ,San José de Ocoa
+JU,San Juan,JU.BO,Bohechío
+JU,San Juan,JU.EC,El Cercado
+JU,San Juan,JU.JH,Juan de Herrera
+JU,San Juan,JU.LM,Las Matas de Farfán
+JU,San Juan,JU.SJ,San Juan
+JU,San Juan,JU.VA,Vallejuelo
+PM,San Pedro de Macorís,PM.CO,Consuelo
+PM,San Pedro de Macorís,PM.GY,Guayacanes
+PM,San Pedro de Macorís,PM.LL,Los Llanos
+PM,San Pedro de Macorís,PM.QQ,Quisqueya
+PM,San Pedro de Macorís,PM.RS,Ramón Santana
+PM,San Pedro de Macorís,PM.SP,San Pedro de Macorís
+ST,Santiago,ST.VB,Bisonó
+ST,Santiago,ST.JA,Jánico
+ST,Santiago,ST.LM,Licey al Medio
+ST,Santiago,ST.PU,Puñal
+ST,Santiago,ST.SI,Sabana Iglesia
+ST,Santiago,ST.SJ,San José de las Matas
+ST,Santiago,ST.SG,Santiago
+ST,Santiago,ST.TA,Tamboril
+ST,Santiago,ST.VG,Villa González
+SR,Santiago Rodríguez,SR.MO,Monción
+SR,Santiago Rodríguez,SR.SI,San Ignacio de Sabaneta
+SR,Santiago Rodríguez,SR.LA,Villa los Almácigos
+SD,Santo Domingo,SD.BC,Boca Chica
+SD,Santo Domingo,SD.LA,Los Alcarrizos
+SD,Santo Domingo,SD.PB,Pedro Brand
+SD,Santo Domingo,SD.GU,San Antonio de Guerra
+SD,Santo Domingo,SD.ES,Santo Domingo Este
+SD,Santo Domingo,SD.DN,Santo Domingo Norte
+SD,Santo Domingo,SD.OE,Santo Domingo Oeste
+VA,Valverde,VA.ES,Esperanza
+VA,Valverde,VA.LS,Laguna Salada
+VA,Valverde,VA.MA,Mao

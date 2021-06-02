@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<provinces>
+  <province>
+    <code>AZ</code>
+    <description>Azua</description>
+    <municipality>
+      <code>AZ.AC</code>
+      <description>Azua</description>
+    </municipality>
+    <municipality>
+      <code>AZ.ES</code>
+      <description>Estebanía</description>
+    </municipality>
+    <municipality>
+      <code>AZ.GU</code>
+      <description>Guayabal</description>
+    </municipality>
+    <municipality>
+      <code>AZ.LC</code>
+      <description>Las Charcas</description>
+    </municipality>
+    <municipality>
+      <code>AZ.YV</code>
+      <description>Las Yayas de Viajama</description>
+    </municipality>
+    <municipality>
+      <code>AZ.PL</code>
+      <description>Padre las Casas</description>
+    </municipality>
+    <municipality>
+      <code>AZ.PR</code>
+      <description>Peralta</description>
+    </municipality>
+    <municipality>
+      <code>AZ.PV</code>
+      <description>Pueblo Viejo</description>
+    </municipality>
+    <municipality>
+      <code>AZ.SY</code>
+      <description>Sabana Yegua</description>
+    </municipality>
+    <municipality>
+      <code>AZ.VT</code>
+      <description>Tábara Arriba</description>
+    </municipality>
+  </province>
+  <province>
+    <code>BR</code>
+    <description>Baoruco</description>
+    <municipality>
+      <code>BR.GA</code>
+      <description>Galván</description>
+    </municipality>
+    <municipality>
+      <code>BR.LR</code>
+      <description>Los Ríos</description>
+    </municipality>
+    <municipality>
+      <code>BR.NE</code>
+      <description>Neiba</description>
+    </municipality>
+    <municipality>
+      <code>BR.TM</code>
+      <description>Tamayo</description>
+    </municipality>
+    <municipality>
+      <code>BR.VJ</code>
+      <description>Villa Jaragua</description>
+    </municipality>
+  </province>
+  <province>
+    <code>BH</code>
+    <description>Barahona</description>
+    <municipality>
+      <code>BH.SC</code>
+      <description>Barahona</description>
+    </municipality>
+    <municipality>
+      <code>BH.CA</code>
+      <description>Cabral</description>
+    </municipality>
+    <municipality>
+      <code>BH.EP</code>
+      <description>El Peñón</description>
+    </municipality>
+    <municipality>
+      <code>BH.EN</code>
+      <description>Enriquillo</description>
+    </municipality>
+    <municipality>
+      <code>BH.FU</code>
+      <description>Fundación</description>
+    </municipality>
+    <municipality>
+      <code>BH.JQ</code>
+      <description>Jaquimeyes</description>
+    </municipality>
+    <municipality>
+      <code>BH.LC</code>
+      <description>La Ciénaga</description>
+    </municipality>
+    <municipality>
+      <code>BH.LS</code>
+      <description>Las Salinas</description>
+    </municipality>
+    <municipality>
+      <code>BH.PA</code>
+      <description>Paraíso</description>
+    </municipality>
+    <municipality>
+      <code>BH.PO</code>
+      <description>Polo</description>
+    </municipality>
+    <municipality>
+      <code>BH.VN</code>
+      <description>Vicente Noble</description>
+    </municipality>
+  </province>
+  <province>
+    <code>DA</code>
+    <description>Dajabón</description>
+    <municipality>
+      <code>DA.DA</code>
+      <description>Dajabón</description>
+    </municipality>
+    <municipality>
+      <code>DA.EP</code>
+      <description>El Pino</description>
+    </municipality>
+    <municipality>
+      <code>DA.LC</code>
+      <description>Loma de Cabrera</description>
+    </municipality>
+    <municipality>
+      <code>DA.PA</code>
+      <description>Partido</description>
+    </municipality>
+    <municipality>
+      <code>DA.RE</code>
+      <description>Restauración</description>
+    </municipality>
+  </province>
+  <province>
+    <code>NC</code>
+    <description>Distrito Nacional</description>
+    <municipality>
+      <code>NC.DN</code>
+      <description>Santo Domingo de Guzmán</description>
+    </municipality>
+  </province>
+  <province>
+    <code>DU</code>
+    <description>Duarte</description>
+    <municipality>
+      <code>DU.AR</code>
+      <description>Arenoso</description>
+    </municipality>
+    <municipality>
+      <code>DU.CA</code>
+      <description>Castillo</description>
+    </municipality>
+    <municipality>
+      <code>DU.HO</code>
+      <description>Eugenio María de Hostos</description>
+    </municipality>
+    <municipality>
+      <code>DU.LG</code>
+      <description>Las Guáranas</description>
+    </municipality>
+    <municipality>
+      <code>DU.PI</code>
+      <description>Pimentel</description>
+    </municipality>
+    <municipality>
+      <code>DU.SF</code>
+      <description>San Francisco de Macorís</description>
+    </municipality>
+    <municipality>
+      <code>DU.VR</code>
+      <description>Villa Riva</description>
+    </municipality>
+  </province>
+  <province>
+    <code>EP</code>
+    <description>Elías Piña</description>
+    <municipality>
+      <code>EP.BA</code>
+      <description>Bánica</description>
+    </municipality>
+    <municipality>
+      <code>EP.CO</code>
+      <description>Comendador</description>
+    </municipality>
+    <municipality>
+      <code>EP.EL</code>
+      <description>El Llano</description>
+    </municipality>
+    <municipality>
+      <code>EP.HV</code>
+      <description>Hondo Valle</description>
+    </municipality>
+    <municipality>
+      <code>EP.JS</code>
+      <description>Juan Santiago</description>
+    </municipality>
+    <municipality>
+      <code>EP.PS</code>
+      <description>Pedro Santana</description>
+    </municipality>
+  </province>
+  <province>
+    <code>SE</code>
+    <description>El Seibo</description>
+    <municipality>
+      <code>SE.SC</code>
+      <description>El Seibo</description>
+    </municipality>
+    <municipality>
+      <code>SE.MI</code>
+      <description>Miches</description>
+    </municipality>
+  </province>
+  <province>
+    <code>ES</code>
+    <description>Espaillat</description>
+    <municipality>
+      <code>ES.CG</code>
+      <description>Cayetano Germosén</description>
+    </municipality>
+    <municipality>
+      <code>ES.GH</code>
+      <description>Gaspar Hernández</description>
+    </municipality>
+    <municipality>
+      <code>ES.JN</code>
+      <description>Jamao al Norte</description>
+    </municipality>
+    <municipality>
+      <code>ES.MC</code>
+      <description>Moca</description>
+    </municipality>
+  </province>
+  <province>
+    <code>HM</code>
+    <description>Hato Mayor</description>
+    <municipality>
+      <code>HM.EV</code>
+      <description>El Valle</description>
+    </municipality>
+    <municipality>
+      <code>HM.HM</code>
+      <description>Hato Mayor</description>
+    </municipality>
+    <municipality>
+      <code>HM.SM</code>
+      <description>Sabana de la Mar</description>
+    </municipality>
+  </province>
+  <province>
+    <code>SC</code>
+    <description>Hermanas Mirabal</description>
+    <municipality>
+      <code>SC.SA</code>
+      <description>Salcedo</description>
+    </municipality>
+    <municipality>
+      <code>SC.TE</code>
+      <description>Tenares</description>
+    </municipality>
+    <municipality>
+      <code>SC.VT</code>
+      <description>Villa Tapia</description>
+    </municipality>
+  </province>
+  <province>
+    <code>IN</code>
+    <description>Independencia</description>
+    <municipality>
+      <code>IN.CR</code>
+      <description>Cristóbal</description>
+    </municipality>
+    <municipality>
+      <code>IN.DU</code>
+      <description>Duvergé</description>
+    </municipality>
+    <municipality>
+      <code>IN.JI</code>
+      <description>Jimaní</description>
+    </municipality>
+    <municipality>
+      <code>IN.LD</code>
+      <description>La Descubierta</description>
+    </municipality>
+    <municipality>
+      <code>IN.ME</code>
+      <description>Mella</description>
+    </municipality>
+    <municipality>
+      <code>IN.PR</code>
+      <description>Postrer Río</description>
+    </municipality>
+  </province>
+  <province>
+    <code>AL</code>
+    <description>La Altagracia</description>
+    <municipality>
+      <code>AL.HI</code>
+      <description>Higüey</description>
+    </municipality>
+    <municipality>
+      <code>AL.SR</code>
+      <description>San Rafael del Yuma</description>
+    </municipality>
+  </province>
+  <province>
+    <code>RO</code>
+    <description>La Romana</description>
+    <municipality>
+      <code>RO.GU</code>
+      <description>Guaymate</description>
+    </municipality>
+    <municipality>
+      <code>RO.LR</code>
+      <description>La Romana</description>
+    </municipality>
+    <municipality>
+      <code>RO.VH</code>
+      <description>Villa Hermosa</description>
+    </municipality>
+  </province>
+  <province>
+    <code>VE</code>
+    <description>La Vega</description>
+    <municipality>
+      <code>VE.CO</code>
+      <description>Constanza</description>
+    </municipality>
+    <municipality>
+      <code>VE.JB</code>
+      <description>Jarabacoa</description>
+    </municipality>
+    <municipality>
+      <code>VE.JA</code>
+      <description>Jima Abajo</description>
+    </municipality>
+    <municipality>
+      <code>VE.CV</code>
+      <description>La Vega</description>
+    </municipality>
+  </province>
+  <province>
+    <code>MT</code>
+    <description>María Trinidad Sánchez</description>
+    <municipality>
+      <code>MT.CA</code>
+      <description>Cabrera</description>
+    </municipality>
+    <municipality>
+      <code>MT.EF</code>
+      <description>El Factor</description>
+    </municipality>
+    <municipality>
+      <code>MT.NA</code>
+      <description>Nagua</description>
+    </municipality>
+    <municipality>
+      <code>MT.RS</code>
+      <description>Río San Juan</description>
+    </municipality>
+  </province>
+  <province>
+    <code>MN</code>
+    <description>Monseñor Nouel</description>
+    <municipality>
+      <code>MN.BO</code>
+      <description>Bonao</description>
+    </municipality>
+    <municipality>
+      <code>MN.MA</code>
+      <description>Maimón</description>
+    </municipality>
+    <municipality>
+      <code>MN.PB</code>
+      <description>Piedra Blanca</description>
+    </municipality>
+  </province>
+  <province>
+    <code>MC</code>
+    <description>Monte Cristi</description>
+    <municipality>
+      <code>MC.CA</code>
+      <description>Castañuelas</description>
+    </municipality>
+    <municipality>
+      <code>MC.GU</code>
+      <description>Guayubín</description>
+    </municipality>
+    <municipality>
+      <code>MC.LM</code>
+      <description>Las Matas de Santa Cruz</description>
+    </municipality>
+    <municipality>
+      <code>MC.SF</code>
+      <description>Monte Cristi</description>
+    </municipality>
+    <municipality>
+      <code>MC.PS</code>
+      <description>Pepillo Salcedo</description>
+    </municipality>
+    <municipality>
+      <code>MC.VV</code>
+      <description>Villa Vásquez</description>
+    </municipality>
+  </province>
+  <province>
+    <code>MP</code>
+    <description>Monte Plata</description>
+    <municipality>
+      <code>MP.BA</code>
+      <description>Bayaguana</description>
+    </municipality>
+    <municipality>
+      <code>MP.MT</code>
+      <description>Monte Plata</description>
+    </municipality>
+    <municipality>
+      <code>MP.ES</code>
+      <description>Peralvillo</description>
+    </municipality>
+    <municipality>
+      <code>MP.SG</code>
+      <description>Sabana Grande de Boyá</description>
+    </municipality>
+    <municipality>
+      <code>MP.YA</code>
+      <description>Yamasá</description>
+    </municipality>
+  </province>
+  <province>
+    <code>PN</code>
+    <description>Pedernales</description>
+    <municipality>
+      <code>PN.OV</code>
+      <description>Oviedo</description>
+    </municipality>
+    <municipality>
+      <code>PN.PE</code>
+      <description>Pedernales</description>
+    </municipality>
+  </province>
+  <province>
+    <code>PV</code>
+    <description>Peravia</description>
+    <municipality>
+      <code>PV.BN</code>
+      <description>Baní</description>
+    </municipality>
+    <municipality>
+      <code>PV.NI</code>
+      <description>Nizao</description>
+    </municipality>
+  </province>
+  <province>
+    <code>PP</code>
+    <description>Puerto Plata</description>
+    <municipality>
+      <code>PP.AL</code>
+      <description>Altamira</description>
+    </municipality>
+    <municipality>
+      <code>PP.GU</code>
+      <description>Guananico</description>
+    </municipality>
+    <municipality>
+      <code>PP.IM</code>
+      <description>Imbert</description>
+    </municipality>
+    <municipality>
+      <code>PP.LH</code>
+      <description>Los Hidalgos</description>
+    </municipality>
+    <municipality>
+      <code>PP.LU</code>
+      <description>Luperón</description>
+    </municipality>
+    <municipality>
+      <code>PP.SF</code>
+      <description>Puerto Plata</description>
+    </municipality>
+    <municipality>
+      <code>PP.SO</code>
+      <description>Sosúa</description>
+    </municipality>
+    <municipality>
+      <code>PP.LI</code>
+      <description>Villa Isabela</description>
+    </municipality>
+    <municipality>
+      <code>PP.VM</code>
+      <description>Villa Montellano</description>
+    </municipality>
+  </province>
+  <province>
+    <code>SM</code>
+    <description>Samaná</description>
+    <municipality>
+      <code>SM.LT</code>
+      <description>Las Terrenas</description>
+    </municipality>
+    <municipality>
+      <code>SM.SB</code>
+      <description>Samaná</description>
+    </municipality>
+    <municipality>
+      <code>SM.SA</code>
+      <description>Sánchez</description>
+    </municipality>
+  </province>
+  <province>
+    <code>SZ</code>
+    <description>Sánchez Ramírez</description>
+    <municipality>
+      <code>SZ.CV</code>
+      <description>Cevicos</description>
+    </municipality>
+    <municipality>
+      <code>SZ.CO</code>
+      <description>Cotuí</description>
+    </municipality>
+    <municipality>
+      <code>SZ.FA</code>
+      <description>Fantino</description>
+    </municipality>
+    <municipality>
+      <code>SZ.LM</code>
+      <description>La Mata</description>
+    </municipality>
+  </province>
+  <province>
+    <code>CR</code>
+    <description>San Cristóbal</description>
+    <municipality>
+      <code>CR.BH</code>
+      <description>Bajos de Haina</description>
+    </municipality>
+    <municipality>
+      <code>CR.CG</code>
+      <description>Cambita Garabitos</description>
+    </municipality>
+    <municipality>
+      <code>CR.LC</code>
+      <description>Los Cacaos</description>
+    </municipality>
+    <municipality>
+      <code>CR.SP</code>
+      <description>Sabana Grande de Palenque</description>
+    </municipality>
+    <municipality>
+      <code>CR.SC</code>
+      <description>San Cristóbal</description>
+    </municipality>
+    <municipality>
+      <code>CR.NI</code>
+      <description>San Gregorio de Nigua</description>
+    </municipality>
+    <municipality>
+      <code>CR.VA</code>
+      <description>Villa Altagracia</description>
+    </municipality>
+    <municipality>
+      <code>CR.SG</code>
+      <description>Yaguate</description>
+    </municipality>
+  </province>
+  <province>
+    <code>JO</code>
+    <description>San José de Ocoa</description>
+    <municipality>
+      <code>JO.RA</code>
+      <description>Rancho Arriba</description>
+    </municipality>
+    <municipality>
+      <code>JO.SL</code>
+      <description>Sabana Larga</description>
+    </municipality>
+    <municipality>
+      <code>JO.SJ</code>
+      <description>San José de Ocoa</description>
+    </municipality>
+  </province>
+  <province>
+    <code>JU</code>
+    <description>San Juan</description>
+    <municipality>
+      <code>JU.BO</code>
+      <description>Bohechío</description>
+    </municipality>
+    <municipality>
+      <code>JU.EC</code>
+      <description>El Cercado</description>
+    </municipality>
+    <municipality>
+      <code>JU.JH</code>
+      <description>Juan de Herrera</description>
+    </municipality>
+    <municipality>
+      <code>JU.LM</code>
+      <description>Las Matas de Farfán</description>
+    </municipality>
+    <municipality>
+      <code>JU.SJ</code>
+      <description>San Juan</description>
+    </municipality>
+    <municipality>
+      <code>JU.VA</code>
+      <description>Vallejuelo</description>
+    </municipality>
+  </province>
+  <province>
+    <code>PM</code>
+    <description>San Pedro de Macorís</description>
+    <municipality>
+      <code>PM.CO</code>
+      <description>Consuelo</description>
+    </municipality>
+    <municipality>
+      <code>PM.GY</code>
+      <description>Guayacanes</description>
+    </municipality>
+    <municipality>
+      <code>PM.LL</code>
+      <description>Los Llanos</description>
+    </municipality>
+    <municipality>
+      <code>PM.QQ</code>
+      <description>Quisqueya</description>
+    </municipality>
+    <municipality>
+      <code>PM.RS</code>
+      <description>Ramón Santana</description>
+    </municipality>
+    <municipality>
+      <code>PM.SP</code>
+      <description>San Pedro de Macorís</description>
+    </municipality>
+  </province>
+  <province>
+    <code>ST</code>
+    <description>Santiago</description>
+    <municipality>
+      <code>ST.VB</code>
+      <description>Bisonó</description>
+    </municipality>
+    <municipality>
+      <code>ST.JA</code>
+      <description>Jánico</description>
+    </municipality>
+    <municipality>
+      <code>ST.LM</code>
+      <description>Licey al Medio</description>
+    </municipality>
+    <municipality>
+      <code>ST.PU</code>
+      <description>Puñal</description>
+    </municipality>
+    <municipality>
+      <code>ST.SI</code>
+      <description>Sabana Iglesia</description>
+    </municipality>
+    <municipality>
+      <code>ST.SJ</code>
+      <description>San José de las Matas</description>
+    </municipality>
+    <municipality>
+      <code>ST.SG</code>
+      <description>Santiago</description>
+    </municipality>
+    <municipality>
+      <code>ST.TA</code>
+      <description>Tamboril</description>
+    </municipality>
+    <municipality>
+      <code>ST.VG</code>
+      <description>Villa González</description>
+    </municipality>
+  </province>
+  <province>
+    <code>SR</code>
+    <description>Santiago Rodríguez</description>
+    <municipality>
+      <code>SR.MO</code>
+      <description>Monción</description>
+    </municipality>
+    <municipality>
+      <code>SR.SI</code>
+      <description>San Ignacio de Sabaneta</description>
+    </municipality>
+    <municipality>
+      <code>SR.LA</code>
+      <description>Villa los Almácigos</description>
+    </municipality>
+  </province>
+  <province>
+    <code>SD</code>
+    <description>Santo Domingo</description>
+    <municipality>
+      <code>SD.BC</code>
+      <description>Boca Chica</description>
+    </municipality>
+    <municipality>
+      <code>SD.LA</code>
+      <description>Los Alcarrizos</description>
+    </municipality>
+    <municipality>
+      <code>SD.PB</code>
+      <description>Pedro Brand</description>
+    </municipality>
+    <municipality>
+      <code>SD.GU</code>
+      <description>San Antonio de Guerra</description>
+    </municipality>
+    <municipality>
+      <code>SD.ES</code>
+      <description>Santo Domingo Este</description>
+    </municipality>
+    <municipality>
+      <code>SD.DN</code>
+      <description>Santo Domingo Norte</description>
+    </municipality>
+    <municipality>
+      <code>SD.OE</code>
+      <description>Santo Domingo Oeste</description>
+    </municipality>
+  </province>
+  <province>
+    <code>VA</code>
+    <description>Valverde</description>
+    <municipality>
+      <code>VA.ES</code>
+      <description>Esperanza</description>
+    </municipality>
+    <municipality>
+      <code>VA.LS</code>
+      <description>Laguna Salada</description>
+    </municipality>
+    <municipality>
+      <code>VA.MA</code>
+      <description>Mao</description>
+    </municipality>
+  </province>
+</provinces>
