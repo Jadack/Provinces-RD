@@ -11,6 +11,7 @@ Un proyecto que contiene todas las provincias de la República Dominicana con su
 - JSON.
 - XML.
 - CSV.
+- SQL.
 - TypeScript.
 - JavaScript.
 
